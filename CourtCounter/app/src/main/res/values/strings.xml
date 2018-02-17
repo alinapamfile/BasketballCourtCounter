@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Court Counter</string>
+
+    <string name="teamA">Team A</string>
+    <string name="teamB">Team B</string>
+
+    <string name="score">0</string>
+    <string name="three">+3 Points</string>
+    <string name="two">+2 Points</string>
+    <string name="free">Free Throw</string>
+
+    <string name="end">end of game</string>
+    <string name="reset">Reset</string>
+
+    <string name="winnerA">Team A wins!</string>
+    <string name="winnerB">Team B wins!</string>
+    <string name="draw">Draw</string>
+</resources>

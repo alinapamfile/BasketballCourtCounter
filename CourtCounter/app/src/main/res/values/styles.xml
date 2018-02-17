@@ -1,0 +1,7 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Background color of buttons in the app -->
+        <item name="colorButtonNormal">#E65100</item>
+    </style>
+</resources>
